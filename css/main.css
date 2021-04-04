@@ -27,7 +27,7 @@ header {
 }
 
 header h1 {
-  margin: auto;
+  margin: .5rem;
 }
 
 header p {
@@ -46,6 +46,7 @@ nav a:hover {
 nav ul {
   list-style-type: none;
   display: flex;
+  margin: auto;
 }
 
 nav ul li {
